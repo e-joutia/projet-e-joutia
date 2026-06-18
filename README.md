@@ -17,6 +17,10 @@ The module allows users to register, log in, and access a public profile that di
 
 ---
 
+## Screenshots
+
+<img width="270" height="480" alt="Image" src="https://github.com/user-attachments/assets/ea2ed3cf-7562-4635-a517-ea3b4cccc0b3" />
+
 ## Features
 
 ### Authentication
@@ -48,12 +52,6 @@ Trust badges:
 - Verified profile
 - Fast responder badge
 - Other trust indicators
-
----
-
-## Screenshots
-
-
 
 ---
 
