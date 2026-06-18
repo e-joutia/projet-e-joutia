@@ -19,7 +19,12 @@ The module allows users to register, log in, and access a public profile that di
 
 ## Screenshots
 
-<img width="270" height="480" alt="Image" src="https://github.com/user-attachments/assets/ea2ed3cf-7562-4635-a517-ea3b4cccc0b3" />
+<img width="300" height="560" alt="Image" src="https://github.com/user-attachments/assets/dbc19d7b-0bbd-4770-b0cb-937ec330648c" />
+<img width="300" height="560" alt="Image" src="https://github.com/user-attachments/assets/ac9f2fd6-2753-4b2c-9bbc-446a39561522" />
+
+<img width="300" height="560" alt="Image" src="https://github.com/user-attachments/assets/4d4223cf-a3dd-47e6-99e4-45f91e7d8fd8" />
+
+<img width="300" height="560" alt="Image" src="https://github.com/user-attachments/assets/e7a973f6-e951-4d68-93a7-bed0264e21b6" />
 
 ## Features
 
